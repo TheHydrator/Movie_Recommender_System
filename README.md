@@ -35,7 +35,7 @@ Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. For any issues or feature requests, open an issue on GitHub.
 
 **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 **Acknowledgements**
 TMDb Dataset: Data provided by Kaggle.
